@@ -6,6 +6,10 @@
 
 <br>
 
+- [프로젝트 회고록](https://iheese.github.io/project/2022/08/22/jpablogproject/){:target="_blank"}
+
+<br>
+
 - JPA와 Spring Boot를 이용한 블로그 프로젝트입니다.
 - 유저별로 하나의 블로그를 생성할 수 있습니다. 
 - H2 데이터베이스를 In-Memory로 설정하였습니다. 
@@ -126,7 +130,7 @@
 <hr>
 
 - 프로젝트 관련하여 더 많은 이야기는 프로젝트 회고록에 남기도록 하겠습니다.
-- [궁금하다면 여기 클릭]()
+- <a href="https://iheese.github.io/project/2022/08/22/jpablogproject/" target="_blank">회고록 보러 가기</a>
 
 <br>
 
