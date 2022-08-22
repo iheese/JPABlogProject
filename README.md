@@ -3,9 +3,6 @@
 - JAVA : 17, Tomcat : v9.0, Spring Boot : v2.7.1, H2(DB) : v1.4.199 
 - lombok : v1.18.24 , ModelMapper : v2.4.0
 - Test : JUnit5
-
-<br>
-
 - <a href="https://iheese.github.io/project/2022/08/22/jpablogproject/" target="_blank">프로젝트 회고록</a>
 
 <br>
