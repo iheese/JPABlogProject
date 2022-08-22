@@ -6,7 +6,7 @@
 
 <br>
 
-- [프로젝트 회고록](https://iheese.github.io/project/2022/08/22/jpablogproject/){:target="_blank"}
+- <a href="https://iheese.github.io/project/2022/08/22/jpablogproject/" target="_blank">프로젝트 회고록</a>
 
 <br>
 
@@ -130,7 +130,7 @@
 <hr>
 
 - 프로젝트 관련하여 더 많은 이야기는 프로젝트 회고록에 남기도록 하겠습니다.
-- <a href="https://iheese.github.io/project/2022/08/22/jpablogproject/" target="_blank">회고록 보러 가기</a>
+- <a href="https://iheese.github.io/project/2022/08/22/jpablogproject/" target="_blank">프로젝트 회고록</a>
 
 <br>
 
