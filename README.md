@@ -63,7 +63,7 @@
 ![블로그 검색2](https://user-images.githubusercontent.com/88040158/185582743-6eee3dd9-37ce-4cde-9c8c-ecd27571d7fb.png)
 
 - 블로그는 블로그 제목, 태그로 검색할 수 있습니다.
-- 아래는 블로그 제목으로 test를 검색한 결과입니다. 
+- 위 는 블로그 제목으로 test를 검색한 결과입니다. 
 
 <br>
 
